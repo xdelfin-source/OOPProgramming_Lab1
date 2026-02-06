@@ -3,11 +3,21 @@ OOP Math Operations Project
 
 
 OPP_XAN
-Main.java           # Entry point and test cases
-MathOp.java         # Base Class (Encapsulation)
-ArithMod.java       # Derived Class: Arithmetic
-GeoMod.java         # Derived Class: Geometry (Circle/Rectangle)
-NumberAnalysis.java # Derived Class: Number Theory
+
+Main.java  
+Entry point and test cases
+
+MathOp.java    
+Base Class (Encapsulation)
+
+ArithMod.java  
+Derived Class: Arithmetic
+
+GeoMod.java  
+Derived Class: Geometry (Circle/Rectangle)
+
+NumberAnalysis.java  
+Derived Class: Number Theory
 
 Design Requirements Met
 
